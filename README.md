@@ -1,8 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? Este projeto foi desenvolvido no curso Fullstack TQI 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Esse é o repositório da aula de Javascript, na qual foi desenvolvido um jogo da memória com a temática de Super Mario! 
 
-### Os requisitos são:
+### Os requisitos utilizados durante a aula:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
