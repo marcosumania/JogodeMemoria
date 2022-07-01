@@ -1,2 +1,2 @@
-# JogodeMemoria
+# Jogo de Memória
 Jogo de Memória - Fullstack TQI
